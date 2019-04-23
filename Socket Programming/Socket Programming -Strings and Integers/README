@@ -1,0 +1,6 @@
+Client- Server Architecture using Socket Programming in Java
+In this program user can select 2 options : 1.Send Messages
+                                            2.Send Numbers
+1.The user will keep sending messages to server and they will be displayed on server screen until a terminating condition is
+applied by user ("//" in this case)
+2.The user will send numbers to server and the server will print addition of those numbers

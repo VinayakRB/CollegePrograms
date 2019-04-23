@@ -1,0 +1,8 @@
+Procedure:
+          Put all files in the same directory
+          Run hangman.py
+          Play!!!
+          
+NOTE:
+      Do not delete __init__.py
+      If deleted create an empty file. Name it as __init__.py and save it in the same directory
