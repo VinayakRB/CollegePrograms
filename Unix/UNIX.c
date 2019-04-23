@@ -4,7 +4,6 @@
 #include<stdio.h>
 #include<sys/wait.h>
 #include<stdlib.h>
-// #include<stdc++.h>
 
 int global;
 
